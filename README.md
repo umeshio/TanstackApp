@@ -1,4 +1,12 @@
-Welcome to your new TanStack Start app! 
+# 概要
+
+TanStackでアプリケーションを作ってみる  
+
+TanStack + cloudflare d1 + cloudflare pages
+
+# 開発環境
+
+開発時のDBはローカルでsqlite3
 
 # Getting Started
 
